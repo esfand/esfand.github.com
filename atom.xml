@@ -1,0 +1,30 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Het bijstere spoor</title>
+  <link type="application/atom+xml" rel="self" href="http://webwarp.com/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://webwarp.com/</id>
+  <author>
+    <name>Evert Pot</name>
+    <email>me@webwarp.com</email>
+  </author>
+
+  {% for post in site.posts limit:20 %}
+  <entry>
+    <id>http://webwarp.com{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://webwarp.com{{ post.id }}"/>
+    <title>{{ post.title | xml_escape }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Evert Pot</name>
+      <email>me@webwarp.com</email>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+
+</feed>
