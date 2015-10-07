@@ -35,7 +35,7 @@ References are available upon request.
 
 Objective
 ---------
-I'm currently looking for projects, In particular:
+I'm currently looking for projects, in particular:
 
 * Short and long term projects.
 * Can work hourly or on project-basis.
