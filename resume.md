@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Esfand S - Resume
-description: I started freelancing again, and I'm looking for work as a Web Developer
+title: Esfand Shayan - Resume
+description: Esfand Shayan -- Full-Stack Java/Javascript/HTML/CSS Developer 
 ---
 
 CV of Esfand Shayan
@@ -90,10 +90,12 @@ Stock Exchange, and Banking industries using Tandem Fault-Tolerant hardware and 
 operating systems.
 
 * 1987–1990	Cornell Computer Corp.	Los Angeles, CA, USA    
-**Senior Consultant**    
+**Senior Programmer**    
+Business processing systems
 
 * 1979–1987	Algorithm Software Corp.	Tehran, Iran    
-**Programmer/Analyst/Consultant**    
+**Programmer/Analyst**    
+Business processing Systems
 
 
 Education
