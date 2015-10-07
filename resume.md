@@ -12,7 +12,7 @@ CV of Esfand Shayan
 |                                                       |                                   |
 |------------------------------------------------------ | --------------------------------- |
 | **ADDRESS:** Rihlakuja 1, 00920, Helsinki, Finlad.    |  **Date of Birth:** Feb 20, 1951  |
-| **E-Mail:** <mailto:esfand@wow.com>                   |  **Nationality:** USA             |
+| **E-Mail:**  esfand@wow.com                           |  **Nationality:** USA             |
 | **Mobile:** +358-50-555-1961                          |  **Gender:** Male                 |
 
 
@@ -42,14 +42,15 @@ I'm currently looking for projects, in particular:
 * I can work on-site in Helsinki, remotely anywhere, and I would also be
   thrilled to fly to you for a week or two at a time.
 
+
 Up-to-Date Skills
 -----------------
 
-* **Back End:** Java, RabbitMQ, SQL, Cassandra, Hibernate, Maven, JUnit.
-
-* **Front End:** Javascript, Typescript, HTML, CSS, Angular1, Angular2, Jasmine.
-
-* **Networking:** TCP/IP, REST, WebSocket, Server-Sent-Event, Tomcat, GlassFish.
+* **Back End:** Java, RabbitMQ, SQL, Cassandra, Hibernate, Maven, JUnit, Tomcat, 
+  GlassFish, CQRS, DDD, Event Sourcing, RxJava, CDI, Jenkins, Git.
+* **Front End:** Javascript, Typescript, HTML, CSS, Angular 1, Angular 2, Jasmine, 
+  npm, System.js, jspm.
+* **Networking:** TCP/IP, REST, WebSocket, Server-Sent-Event, OData.
 
 
 Employment History
