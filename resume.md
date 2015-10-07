@@ -4,200 +4,106 @@ title: Esfand S - Resume
 description: I started freelancing again, and I'm looking for work as a Web Developer
 ---
 
-Esfand S
-=========
+CV of Esfand Shayan
+===================
 
-_Fll-Stack Engineer_
+### Full-Stack Java/Javascript/HTML/CSS Developer ###
 
-* Last update: *October 2nd, 2015*.
-* Location: Helsinki, Finlad.
-* Contact: <mailto:esfand@wow.com>.
+|                                                       |                                   |
+|------------------------------------------------------ | --------------------------------- |
+| **ADDRESS:** Rihlakuja 1, 00920, Helsinki, Finlad.    |  **Date of Birth:** Feb 20, 1951  |
+| **E-Mail:** <mailto:esfand@wow.com>                   |  **Nationality:** USA             |
+| **Mobile:** +358-50-555-1961                          |  **Gender:** Male                 |
 
 
-Summary
+Profile
 -------
+More than three decades of effective participation in design, development, maintenance, 
+and testing of large-scale fault-tolerant distributed transactional systems with deep 
+knowledge of the cutting-edge technologies such as Java 8, Javascript 2015, Typescript, 
+HTML5, and AngularJS 2; with M.Sc. degree in computer sciences
 
-My name is Esfand, and I've been a Web Developer for over 10 years. I've been
-doing consulting for a wide range of companies, from small businesses to
-telcos, financial services and national broadcasters.
+I've worked for large corporations in the US including Transamerica, Kaiser Permanente, 
+Volt Delta Resources, and Ericsson as well as for many smaller companies.  During the 
+last fifteen year, I've worked as freelancer for various clients of varying sizes.
 
-I'm especially interested in API design, implementing better engineering
-practices, scalability problems and application architecture. In the past I've
-had a strong focus on PHP, but I'm very open to other technology stacks as
-well.
-
-I'm currently looking for projects! In particular:
-
-* Short and long term projects.
-* Can work hourly or on project-basis.
-* I can work on-site in Helsinki, remotely anywhere and I would also be
-  thrilled to fly to you for a week or two.
-
-I am specifically _not_ looking for full or part-time employment.
+I've worked in many industries including financial, banking, health, insurance, and 
+telecommunication.
 
 References are available upon request.
 
-Links
------
 
-* Blog: <http://esfand.webwarp.com/>
-* Github: <https://github.com/esfand/>
-* LinkedIn: <https://fi.linkedin.com/in/esfand1>
-* Stack Overflow: <http://stackoverflow.com/users/80911/esfand>
+Objective
+---------
+I'm currently looking for projects, In particular:
 
+* Short and long term projects.
+* Can work hourly or on project-basis.
+* I can work on-site in Helsinki, remotely anywhere, and I would also be
+  thrilled to fly to you for a week or two at a time.
 
-Experience
-----------
+Up-to-Date Skills
+-----------------
 
-### Co-Founder/CTO fruux, Germany + UK — 2011 - 2015
+* **Back End:** Java, RabbitMQ, SQL, Cassandra, Hibernate, Maven, JUnit.
 
-In December 2011 I went full-time with fruux, which was a bit of a
-side-project at the time. We got a seed investment round, and opened the
-door to our office. As the technical lead I’ve been responsible for the
-technical and product direction, as well as leading the team from a
-technical perspective. Aside from that I’ve also got my hands dirty in some
-marketing and sales, and basically just stepped in where needed.
+* **Front End:** Javascript, Typescript, HTML, CSS, Angular1, Angular2, Jasmine.
 
-### Consulting, worldwide — 2003-today
-
-I’ve been doing this ‘full-time’ on and off, whenever I’ve not really been
-fully focused on a job. I’ve had the opportunity to work in
-telecommunication, social media, group ware, advertising, broadcasting,
-financial service companies in Australia, Portugal, Canada and The
-Netherlands, and remotely worked for various other companies from North
-America, Europe and Asia.
+* **Networking:** TCP/IP, REST, WebSocket, Server-Sent-Event, Tomcat, GlassFish.
 
 
-### Software engineer, Ibuildings, Utrecht, Netherlands — 2010-2011
+Employment History
+------------------
 
-In 2010 I started working for Ibuildings in the Netherlands as a senior
-software engineer. Ibuildings is a software development company based in
-The Netherlands and London, UK specializing in PHP and other web-related
-technologies.
-My role was primarily in leading development teams, training and development.
-I’ve worked here on scalability issues for nu.nl (the number one Dutch news
-site), designed Javascript/YUI3 based ‘fat’ javascript clients, (RESTful)
-Web-service development and in-house training around subjects such as
-web-services design, and a full-day javascript workshop.
+* 2002–Current	Various Technology Companies	 USA    
+**Freelancer/Consultant/Contractor**   
+Contracting work for design and development of various applications including 
+Internet/Intranet transaction processing, games, and educational software for 
+various companies.
 
-### Lead architect/owner, Filemobile, Toronto, Canada — 2006-2014
+* 1997-2002 Bipster LLC  Washington D.C., USA    
+**Senior Software Architect** 
+Maintence and enhancement of planned-giving software as well as customization
+and integration of the software into the client's systems.
 
-After working with Filemobile as a contractor, I took on the job as lead
-architect. Being the first person on the payroll, I was given the task of
-making both the application and business scalable by hiring and managing new
-engineers and putting development processes in place. For Filemobile, I
-developed a scalable social network and user-generated content whitelabel
-engine, working with Canada’s leading media brands such as CBC, CTV, Fox, TSN,
-CP24.
+* 1997–2002	WebWarp Corporation	Los Angeles, CA, USA    
+**Senior Software Designer and Developer**    
+Design and implementation of back-end systems for Internet commerce, and the 
+integration of the new systems with existing legacy systems.
 
-In this job I worked with PHP, complicated multi-master, MySQL setups (with
-geographic redundancy), Memcached, Amazon S3 and EC2 and I was responsible
-for developing a multi-core, multi-machine transcoding engine as well as
-leading the development team.
-Starting August 2009 I resigned as lead architect to continue my work as
-independent consultant, after that I was still involved as in an advisory role
-and owner.
+* 1994–1997	Ericsson Inc. R&D Dept.	Los Angeles, CA, USA    
+**Senior Member of Engineering Staff**    
+Design and Implementation of Windows NT-based Call Center and Computer Telephony 
+applications.  The system achieved the Microsoft award for the BackOffice Application 
+of the year 1996.
 
-In late 2015 the company was sold to NewZulu, an Australian-based media
-company.
+* 1992–1994	Volt Delta Corporation.	Los Angeles, CA, USA    
+**Senior Member of Technical Staff**    
+Enhancement and maintenance of the company’s Telephone Directory System for telephone 
+companies’ operators used by many US telephone companies.  The system is a fault-tolerant 
+system on Tandem hardware with UNIX operating system.
 
-### Senior Web developer/partner, Collab, Utrecht, the Netherlands — 2004-2006
+* 1990–1992	XYPRO Technology Corp.	Los Angeles, CA, USA    
+**Senior Consultant**    
+Design and development of various Fault Tolerant systems for Telecommunication, 
+Stock Exchange, and Banking industries using Tandem Fault-Tolerant hardware and UNIX 
+operating systems.
 
-Together with Collab I’ve got a taste of many experimental innovative software,
-such as real-time, multi-user rich internet applications including web video
-chat and media conversion. Using technologies such as Flash Communication
-Server (now Flash Media Server) and FFMpeg. In these 3 years I’ve worked with
-Dutch media and internet companies, such as NOS, BNN, Telegraaf/Speurders.nl,
-EasyConcepts, Netmasters and UDC/Dancevalley.
+* 1987–1990	Cornell Computer Corp.	Los Angeles, CA, USA    
+**Senior Consultant**    
 
-### Application developer/Sys admin, V/d Veer, Surhuisterveen, The Netherlands — 2003
-
-Developed and implemented a car inventory and lease database. The Database was
-based on Interbase, the front-end was built using Borland Delphi. I got this
-job as an intern, and I was forced to jump in and learn many technologies that
-were new for me at the time, such as SQL.
-
-### Junior sys admin/Tech support, Microdesk, Rijswijk, The Netherlands — 2001
-
-This job involved many system administrator tasks, such as working with
-hardware, installing and preparing massive amounts of desktop machines and
-occasionally getting coffee for the more senior people in the company.
+* 1979–1987	Algorithm Software Corp.	Tehran, Iran    
+**Programmer/Analyst/Consultant**    
 
 
-Skills
-------
+Education
+---------
+* 1976	B.S. Computer Sciences -- Sharif University of Technology 	Tehran, Iran    
+* 1979  M.S. Computer Sciences -- Sharif University of Technology 	Tehran, Iran     
 
-### Language
-
-* English: advanced speaking/writing
-* Dutch: advanced speaking/writing
-* Frisian: advanced speaking
-* German: basic speaking/writing
-
-### Technology
-
-* Expert skills: PHP, MySQL, WebDAV, CalDAV, CardDAV, HTTP, Rest APIs,
-  Javascript, Backbone.js, Atom, HTML, LessCSS, YUI3, Debian and Ubuntu, Video
-  Transcoding tools, CSS 3, Flash Video, Amazon S3 and EC2, Apache, Nginx.
-* Novice skills: NodeJS, Squid, CakePHP.
-* Beginner skills: C, Bash programming, Java, Python, Ruby.
-* Ancient skills: (Q/GW)Basic, Delphi, Interbase, Turbo Pascal, x86 assembler,
-  Actionscript, Podcasting, AMF, Flash-PHP interaction using Flash Remoting,
-  FMS/FCS-PHP integration, Flix Encoder, XUL, Wowza Media Server, Lighttpd.
-
-### Management
-
-I’ve built and lead several development teams, implemented development
-processes (where appropriate and keeps people happy). Teams consisting of
-people with various skills such as browser front-end developer, designers,
-Actionscript developers, DBA’s, Linux system administrators and
-backend-engineers. Experience in interpreting business requirements and
-communicating technical requirements.
-
-### Speaking
-
-* FlashInTO 2007, Toronto, Video conversion with FFMpeg.
-* Flash In The Can 2007, Toronto, Flash Video LiveCycle: From User To Delivery. 
-* PHPBenelux Meetup 2011, Amersfoort, Netherlands: Integrating WebDAV in PHP applications.
-* Dutch PHP conference 2011 - Amsterdam, Netherlands: RESTful webservices.
-* Dutch PHP conference 2012 - Amsterdam, Netherlands: Backbone.js.
-* OwnCloud contributer conference 2015 - Berlin, Germany: sabre/dav and Promises & Generators.
-
-
-### Recognition
-
-* Best developer of the year - Canadian New Media Awards 2008
-
-### Standards
-
-* Member of the PHP Framework Interoperability Group (<http://php-fig.org/>).
-  Contributor to various PHP standards.
-* Member of CalConnect, the Calendaring & Scheduling Consortium. Currently
-  working on several documents that hopefully will become IETF RFCs.
-
-
-Other projects
+Certifications
 --------------
+* 1995   Microsoft Certified System Engineer (MCSE)  	Los Angeles, CA, USA    
+* 1995   Microsoft Certified Solution Developer (MCSD) 	 Los Angeles, CA, USA    
+* 1989   Novell Certified Network Engineer (CNE) 	Orange County, CA, USA    
 
-### Blogging
-
-I've been blogging on and off since 2006. Here's some of my favourites:
-
-<ul>
-{% for post in site.tags.featured %}
-  <li>
-     <a href="{{ post.url }}">{{ post.title }}</a>
-     <span>({{ post.date | date:"%Y-%m-%d" }})</span>
-  </li>
-{% endfor %}
-</ul>
-
-Because of this, I've been published in both PHP Architect (a paper PHP
-magazine), and PHP Advent (now defunct series of articles).
-
-### sabre.io
-
-Since 2007 I started working on an open source library that would be named
-sabre/dav. This project spawned a number of PHP libraries that are now widely
-in use for various purposes. The project site is <http://sabre.io/>. I'm still
-the lead maintainer for all of these projects.
