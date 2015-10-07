@@ -1,23 +1,23 @@
 ---
 layout: default
-title: Evert Pot - Resume
+title: Esfand S - Resume
 description: I started freelancing again, and I'm looking for work as a Web Developer
 ---
 
-Evert Pot
+Esfand S
 =========
 
-_Web architect, API developer_
+_Fll-Stack Engineer_
 
 * Last update: *October 2nd, 2015*.
-* Location: Toronto, ON, Canada.
-* Contact: <mailto:work@evertpot.com>.
+* Location: Helsinki, Finlad.
+* Contact: <mailto:esfand@wow.com>.
 
 
 Summary
 -------
 
-My name is Evert, and I've been a Web Developer for over 10 years. I've been
+My name is Esfand, and I've been a Web Developer for over 10 years. I've been
 doing consulting for a wide range of companies, from small businesses to
 telcos, financial services and national broadcasters.
 
@@ -30,8 +30,8 @@ I'm currently looking for projects! In particular:
 
 * Short and long term projects.
 * Can work hourly or on project-basis.
-* I can work on-site in Toronto, remotely anywhere and I would also be
-  thrilled to fly to you for a week or two to kick off a new project.
+* I can work on-site in Helsinki, remotely anywhere and I would also be
+  thrilled to fly to you for a week or two.
 
 I am specifically _not_ looking for full or part-time employment.
 
@@ -40,10 +40,10 @@ References are available upon request.
 Links
 -----
 
-* Blog: <http://evertpot.com/>
-* Github: <https://github.com/evert/>
-* LinkedIn: <https://ca.linkedin.com/in/evertpot>
-* Stack Overflow: <http://stackoverflow.com/users/80911/evert>
+* Blog: <http://esfand.webwarp.com/>
+* Github: <https://github.com/esfand/>
+* LinkedIn: <https://fi.linkedin.com/in/esfand1>
+* Stack Overflow: <http://stackoverflow.com/users/80911/esfand>
 
 
 Experience

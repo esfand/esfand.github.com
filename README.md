@@ -1,4 +1,4 @@
-Everts blog
+Esfand blog
 ===========
 
 You're looking at the source code of my brand-spanking new blog.
