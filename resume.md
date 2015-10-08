@@ -39,9 +39,8 @@ I'm currently looking for projects, in particular:
 
 * Short and long term projects.
 * Can work hourly or on project-basis.
-* I can work on-site in Helsinki, remotely anywhere, and I would also be
-  thrilled to fly to you for a week or two at a time.
 
+<br/><br/>
 
 Up-to-Date Skills
 -----------------
