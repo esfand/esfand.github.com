@@ -45,12 +45,16 @@ I'm currently looking for projects, in particular:
 Up-to-Date Skills
 -----------------
 
-* **Back End:** Java, RabbitMQ, SQL, Cassandra, Hibernate, Maven, JUnit, Tomcat, 
-  GlassFish, CQRS, DDD, Event Sourcing, RxJava, CDI, Jenkins, Git.
-* **Front End:** Javascript, Typescript, HTML, CSS, Angular 1, Angular 2, Jasmine, 
+* **Back End:** Java, JavaEE, JavaFX, SQL, Cassandra, JPA, Hibernate, Maven, JUnit, JMS 
+   JAX-RS, Jersey, CQRS, DDD, Event Sourcing, RxJava, CDI, Jenkins, JMS
+   rxJava.
+* **Front End:** Javascript, Typescript, HTML, CSS, Angular, RxJS, ImmutableJS, Jasmine, 
   npm, System.js, jspm.
-* **Networking:** TCP/IP, REST, WebSocket, Server-Sent-Event, OData.
-
+* **Networking:** TCP/IP, REST, WebSocket, SSE, OData.
+* **Tools:** Git, Subversion, Swagger. 
+* **DevOps:** Docker, GlassFish, Tomcat, RabbitMQ.
+* **Testing:** BDD, Cucumber, Gherkin, Selenium WebDriver
+* **Security:** OAuth, Spring Security
 
 Employment History
 ------------------
