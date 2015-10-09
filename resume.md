@@ -46,14 +46,14 @@ Up-to-Date Skills
 -----------------
 
 * **Back End:** Java, JavaEE, JavaFX, SQL, Cassandra, JPA, Hibernate, Maven, JUnit, JMS 
-   JAX-RS, Jersey, CQRS, DDD, Event Sourcing, RxJava, CDI, Jenkins, JMS
+   JAX-RS, Jersey, JAX-B, JAX-P, CQRS, DDD, Event Sourcing, RxJava, CDI, Jenkins, JMS, Gherkin
    rxJava.
-* **Front End:** Javascript, Typescript, HTML, CSS, Angular, RxJS, ImmutableJS, Jasmine, 
-  npm, System.js, jspm.
-* **Networking:** TCP/IP, REST, WebSocket, SSE, OData.
-* **Tools:** Git, Subversion, Swagger. 
+* **Front End:** Javascript 2015, Typescript, HTML 5, CSS 3, Angular, RxJS, ImmutableJS, Jasmine, 
+  npm, SystemJS, jspm, WebPack, Babel, Traceur.
+* **Networking:** TCP/IP, HTTP, REST, WebSocket, SSE, OData.
+* **Tools:** Git, Subversion, Swagger, NodeJS, Protocol Buffer, XML Schema, JSON Schema. 
 * **DevOps:** Docker, GlassFish, Tomcat, RabbitMQ.
-* **Testing:** BDD, Cucumber, Gherkin, Selenium WebDriver
+* **Testing:** Cucumber, Selenium WebDriver
 * **Security:** OAuth, Spring Security
 
 Employment History
