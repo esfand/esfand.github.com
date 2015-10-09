@@ -51,7 +51,7 @@ Up-to-Date Skills
 * **Front End:** Javascript 2015, Typescript, HTML 5, CSS 3, Angular, RxJS, ImmutableJS, Jasmine, 
   npm, SystemJS, jspm, WebPack, Babel, Traceur.
 * **Networking:** TCP/IP, HTTP, REST, WebSocket, SSE, OData.
-* **Tools:** Git, Subversion, Swagger, NodeJS, Protocol Buffer, XML Schema, JSON Schema. 
+* **Tools:** Git, Subversion, Swagger, NodeJS, Protocol Buffer, XML Schema, JSON Schema, Jira, Confluence. 
 * **DevOps:** Docker, GlassFish, Tomcat, RabbitMQ.
 * **Testing:** Cucumber, Selenium WebDriver
 * **Security:** OAuth, Spring Security
