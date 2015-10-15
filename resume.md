@@ -53,7 +53,7 @@ Up-to-Date Skills
 * **Networking:** TCP/IP, HTTP, REST, WebSocket, SSE, OData.
 * **Tools:** Git, Subversion, Swagger, NodeJS, Protocol Buffer, XML Schema, JSON Schema, Jira, Confluence. 
 * **DevOps:** Docker, GlassFish, Tomcat, RabbitMQ.
-* **Testing:** Cucumber, Selenium WebDriver
+* **Testing:** Cucumber, Selenium WebDriver, PhantomJS
 * **Security:** OAuth, Spring Security
 
 Employment History
